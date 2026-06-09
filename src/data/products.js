@@ -1,54 +1,54 @@
 export const products = [
   {
     id: 1,
-    title: "รถยนต์ไฟฟ้า EV Sedan Luxury",
-    image: "https://images.unsplash.com/photo-1563720223185-11003d516935?q=80&w=500",
-    price: 1290000,
+    title: "เครื่องบินเจ็ทส่วนตัว Private Jet Luxury",
+    image: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?q=80&w=500",
+    price: 150000000,
     stock: 15,
     status: "พร้อมขาย",
     tag: "สินค้าขายดี"
   },
   {
     id: 2,
-    title: "รถอเนกประสงค์ SUV Family Choice",
-    image: "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=500",
-    price: 890000,
+    title: "เครื่องบินใบพัดเล็ก Cessna Skylane",
+    image: "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=500",
+    price: 18500000,
     stock: 40,
     status: "พร้อมขาย",
     tag: "สินค้าขายดี"
   },
   {
     id: 3,
-    title: "รถสปอร์ต Hypercar Concept",
-    image: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=500",
-    price: 5500000,
+    title: "เครื่องบินขับไล่ Supersonic Fighter Jet",
+    image: "https://images.unsplash.com/photo-1519074069444-1ba4e6664104?q=80&w=500",
+    price: 850000000,
     stock: 0, 
     status: "สินค้าหมด",
     tag: ""
   },
   {
     id: 4,
-    title: "รถกระบะ Off-Road 4x4",
-    image: "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?q=80&w=500",
-    price: 759000,
+    title: "เฮลิคอปเตอร์อเนกประสงค์ Twin-Engine",
+    image: "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=500",
+    price: 45000000,
     stock: 8,
     status: "พร้อมขาย",
     tag: "สินค้าขายดี"
   },
   {
     id: 5,
-    title: "รถมอเตอร์ไซค์ Bigbike 1000cc",
-    image: "https://images.unsplash.com/photo-1558981806-ec527fa84c39?q=80&w=500",
-    price: 499000,
+    title: "เครื่องบินสะเทินน้ำสะเทินบก Amphibian Plane",
+    image: "https://images.unsplash.com/photo-1483375801501-373c247fbe6c?q=80&w=500",
+    price: 29000000,
     stock: 22,
     status: "พร้อมขาย",
     tag: ""
   },
   {
     id: 6,
-    title: "รถยนต์คลาสสิก Vintage Retro",
-    image: "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=500",
-    price: 2350000,
+    title: "เครื่องบินสปอร์ตเบา Light Sport Aircraft",
+    image: "https://images.unsplash.com/photo-1527489377706-5bf97e608852?q=80&w=500",
+    price: 8900000,
     stock: 0,
     status: "สินค้าหมด",
     tag: ""

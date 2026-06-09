@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       
       <div className="store-header">
-        <h1 className="title"> mix88 Gadget & Sport Superstore</h1>
+        <h1 className="title"> pui88888888 Gadget & Sport Superstore</h1>
         <p className="subtitle">สินค้าคุณภาพเยี่ยม อัปเดตคลังสินค้าแบบเรียลไทม์</p>
       </div>
 
